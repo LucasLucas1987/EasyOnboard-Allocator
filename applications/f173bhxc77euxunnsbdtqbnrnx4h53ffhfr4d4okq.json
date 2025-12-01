@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-12-01 10:47:36.340406587 UTC",
+    "State": "Granted",
+    "Validated At": "2025-12-01 10:49:43.074363532 UTC",
     "Validated By": "LucasLucas1987",
     "Active": true,
-    "Updated At": "2025-12-01 10:47:36.340410575 UTC",
+    "Updated At": "2025-12-01 10:49:43.074358557 UTC",
     "Active Request ID": "1e7a0278-9e9e-4055-b128-04e26493de32",
     "On Chain Address": "f173bhxc77euxunnsbdtqbnrnx4h53ffhfr4d4okq",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2025-12-01 10:47:36.340412749 UTC",
       "Updated At": "2025-12-01 10:47:36.340413582 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "562949953421312 B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "LucasLucas1987",
+          "Signing Address": "f1ffzgattgx5v7w7vqdckiy2rjhhgcsohpdmjeq5q",
+          "Created At": "2025-12-01 10:49:40.365000000 UTC",
+          "Message CID": "bafy2bzacech6kpicvsefuz77gog5h4wx6dm7y74ogi5a65rtnvaipcei4rqbm"
+        }
+      ]
     }
   ]
 }
