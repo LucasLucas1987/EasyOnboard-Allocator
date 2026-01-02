@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-01-02 04:18:15.609200716 UTC",
+    "State": "Granted",
+    "Validated At": "2026-01-02 04:20:39.202257042 UTC",
     "Validated By": "LucasLucas1987",
     "Active": true,
-    "Updated At": "2026-01-02 04:18:15.609204397 UTC",
+    "Updated At": "2026-01-02 04:20:39.202253098 UTC",
     "Active Request ID": "a761cb56-528e-4549-b6f5-4655baae0ebd",
     "On Chain Address": "f173bhxc77euxunnsbdtqbnrnx4h53ffhfr4d4okq",
     "Multisig Address": "false",
@@ -99,9 +99,16 @@
       "Request Type": "Refill",
       "Created At": "2026-01-02 04:18:15.609213092 UTC",
       "Updated At": "2026-01-02 04:18:15.609214025 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1688849860263936B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "LucasLucas1987",
+          "Signing Address": "f1ffzgattgx5v7w7vqdckiy2rjhhgcsohpdmjeq5q",
+          "Created At": "2026-01-02 04:20:35.572000000 UTC",
+          "Message CID": "bafy2bzacedfhskscmz4erfx3w4d4v7ynfiexmsmmdy656u4gosi3niyqu6age"
+        }
+      ]
     }
   ]
 }
